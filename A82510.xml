@@ -1,0 +1,288 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An additionall ordinance of the Lords and commons assembled in the Parliament of England, for the more full indempnity of the officers and souldiers who have acted by authority, and for the service of the Parliament Together with severall votes of the Lords and Commons assembled in Parliament, concerning the same. Ordered by the Lords assembled in Parliament, that this ordinance and votes be forthwith printed and published. Joh. Brown Cler. Parliamentorum.</title>
+            <title>Proceedings. 1647-06-05</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82510</idno>
+            <idno type="STC">Wing E1180A</idno>
+            <idno type="STC">ESTC R228094</idno>
+            <idno type="EEBO-CITATION">99900007</idno>
+            <idno type="PROQUEST">99900007</idno>
+            <idno type="VID">133144</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82510)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133144)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2497:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An additionall ordinance of the Lords and commons assembled in the Parliament of England, for the more full indempnity of the officers and souldiers who have acted by authority, and for the service of the Parliament Together with severall votes of the Lords and Commons assembled in Parliament, concerning the same. Ordered by the Lords assembled in Parliament, that this ordinance and votes be forthwith printed and published. Joh. Brown Cler. Parliamentorum.</title>
+                  <title>Proceedings. 1647-06-05</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>for John Wright at the Kings Head in the old Bayley,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Copy filmed at UMI microfilm Early English Books 1641-1700 reel 2497 uncut.</note>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Pardon --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:133144:1"/>
+            <!-- PDF PAGE 19 -->
+            <p>AN ADDITIONALL ORDINANCE OF THE LORDS and COMMONS Aſſembled
+in the PARLIAMENT OF ENGLAND, For the morefull Indempnity of the Of<g ref="char:EOLhyphen"/>ficers and
+Souldiers who have acted by Authority, and for the ſervice of the PARLIAMENT.
+Together with ſeveral VOTES of the Lords and Commons Aſſembled in
+Parliament, concer<g ref="char:EOLhyphen"/>ning the ſame.</p>
+            <p> 
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>ORdered by the Lords Aſſembled in Parliament,
+That this Ordinance and Votes be forthwith printed and publiſhed.</hi>
+                        </p>
+                        <closer>
+                           <signed>Joh. Brown Cler.
+Parliamentorum.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Imprinted at <hi>London</hi> for <hi>John Wright</hi> at the
+Kings Head in the old Bayley. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb n="1" facs="tcp:133144:2"/>
+            <!-- PDF PAGE 20 -->
+            <head>
+               <hi>Die Sabbathi,</hi> 5 <hi>Junii,</hi> 1647. An additionall
+Ordinance of the Lords and Commons aſſembled in the Parliament of
+<hi>England,</hi> for the more full indempnity of the Officers and Souldi<g ref="char:EOLhyphen"/>ers
+who have acted by Authority and for the ſervice of the Parliament.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Oraſmuch as in the times of this late Warre and publike
+diſtra<g ref="char:EOLhyphen"/>ctions there have been many In<g ref="char:EOLhyphen"/>juries done to private perſons and
+other offences Committed by di<g ref="char:EOLhyphen"/>vers perſons bearing Armes in the ſervice of
+the Parliament, The Lords and Com<g ref="char:EOLhyphen"/>mons in Parliament aſſembled taking into
+their Conſideration, That it is expedient that the in<g ref="char:EOLhyphen"/>juries and offences
+aforeſaid be pardoned and put in Oblivion rather than by pretence of
+proſecuti<g ref="char:EOLhyphen"/>on againſt ſome few perſons, a great number of ſuch who
+have faithfully ſerved the Parliament be brought into a continuall vexation
+for ſuch <pb n="2" facs="tcp:133144:3"/>
+               <!-- PDF PAGE 21 -->Actions as the
+exigencie of Warre hath neceſſita<g ref="char:EOLhyphen"/>ted them unto, Do therefore Ordaine, and
+be it Ordained by the ſaid Lords and Commons, That all perſons who have
+committed any offences, treſpaſſes, injuries, or other miſdemeanours
+what<g ref="char:EOLhyphen"/>ſoever, during ſuch time as they have been em<g ref="char:EOLhyphen"/>ployed in Armes, by or
+for the ſervice of the Par<g ref="char:EOLhyphen"/>liament, be, is, and are hereby diſcharged and
+par<g ref="char:EOLhyphen"/>doned of the ſame, and off and from all proſecu<g ref="char:EOLhyphen"/>tion or damages
+therefore, either at the Suit of the King or the party grieved, and may in
+caſe he or they be queſtioned therefore, plead the gene<g ref="char:EOLhyphen"/>rall Iſſues,
+and give this Ordinance in evidence, which ſhall be allowed to all intents
+and purpoſes as if the ſame were pleaded in Warre. And in caſe any
+ſhall proſecute any Action or Suit con<g ref="char:EOLhyphen"/>trary to the Tenour of this
+Ordinance, againſt any perſon hereby diſcharged, after notice given that
+ſuch perſon is hereby diſcharged, the defendant or Defendants ſo
+proſecuted ſhall recover his and their coſt againſt ſuch
+Proſecutor.</p>
+            <p>Provided alſo that this Ordinance nor any thing herein
+contained, ſhall extend to diſcharge any ſuch perſon or perſons as
+aforeſaid from making their true and juſt Accompts to any Committee or
+Committees of Parliament appointed or to be appointed for that purpoſe, of
+what they have ta<g ref="char:EOLhyphen"/>ken, received, or had, for the Service or benefit of the
+Parliament.</p>
+            <closer>
+               <signed>
+                  <hi>Joh. Brown Cler.
+Parliamentorum.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="part">
+            <pb n="3" facs="tcp:133144:3"/>
+            <!-- PDF PAGE 21 -->
+            <head>
+               <hi>Die Sabbathi,</hi> 5 <hi>Junii,</hi> 1647. Votes of the
+Lords and Commons Aſſembled in Parliament, for the diſ<g ref="char:EOLhyphen"/>banding and
+payment of Sir <hi>Thomas Fairfax</hi> his Army.</head>
+            <p>ORdered by the Lords and Com<g ref="char:EOLhyphen"/>mons Aſſembled in Parliament,
+That the Common Souldier both of Horſe and Foot of Sir <hi>Thomas
+Fairfax</hi> his Army ſhall have their full pay upon their disbanding or
+ingaging for <hi>Ireland,</hi> deducting for free Quarter, according to the
+courſe and Rules of the Army.</p>
+            <p>Ordered by the Lords and Commons Aſſembled in Parliament,
+That the Offi<g ref="char:EOLhyphen"/>cers of this Army not in Commiſſion, ſhall likewiſe have
+their full pay upon their disbanding, or ingaging for <hi>Ireland,</hi>
+de<g ref="char:EOLhyphen"/>ducting for free quarter, according to the courſe and Rules of the
+Army.</p>
+            <pb n="4" facs="tcp:133144:4"/>
+            <!-- PDF PAGE 22 -->
+            <p>Ordered by the Lords and Commons Aſſembled in Parliament,
+That there ſhall be an addition of a Moneths Pay to the commiſſioned
+Officers of Sir <hi>Thomas Fairfax</hi> his Army, both Horſe and Foot, that
+ſhall either disband or ingage in the Service of <hi>Ireland.</hi>
+            </p>
+            <p>Ordered by the Lords and Commons Aſſembled in Parliament,
+That the De<g ref="char:EOLhyphen"/>claration bearing Date the thirt<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eth of March, 1647. ſhall be expunged out of the Journall of both
+Houſes; the ſaid De<g ref="char:EOLhyphen"/>claration was accordingly expunged.</p>
+            <closer>
+               <signed>
+                  <hi>Joh. Brown Cler.
+Parliamentorum.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="part">
+            <pb facs="tcp:133144:5"/>
+            <!-- PDF PAGE 23 -->
+            <pb n="5" facs="tcp:133144:5"/>
+            <!-- PDF PAGE 23 -->
+            <head>Die Sabbathi, <hi>19</hi> Junii. <hi>1647.</hi>
+            </head>
+            <p>THe Lords and Commons in Parliament having well accepted the
+obedience and readineſſe of thoſe Officers and Souldiers who have
+complied with their Orders, have Ordered and Ordained, and by Authority
+aforeſaid do Order and Ordaine, That all and eve<g ref="char:EOLhyphen"/>ry the ſaid Officers and
+Souldiers aforeſaid, ſhall <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e
+freed, exonerated, acquitted, and diſcharged, a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d are in and hereby declared and adjudged from henceforth
+to be free, exonerate, acquit, and diſ<g ref="char:EOLhyphen"/>charged of and from all and
+whatſoever proſecuti<g ref="char:EOLhyphen"/>on, judgement of life or member, paines, penal<g ref="char:EOLhyphen"/>ties,
+and puniſhments whatſoever incurred or that ſhall, may, or can, might,
+could, ſhould, or ought to be inflicted, proſecuted, had, or purſued
+againſt them or any of them, for or by reaſon of the ſaid pretended
+offence or offences of their departure from their ſaid Colours, or from under
+the Com<g ref="char:EOLhyphen"/>mand of the ſaid Sir <hi>Thomas Fairfax,</hi> or from or under the
+command of any Military Officer or Of<g ref="char:EOLhyphen"/>ficers under him whatſoever.</p>
+            <closer>
+               <signed>
+                  <hi>Joh. Brown Cler.
+Parliamentorum.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="part">
+            <pb n="6" facs="tcp:133144:6"/>
+            <!-- PDF PAGE 24 -->
+            <head>
+               <hi>Die Veneris,</hi> 24 <hi>Decemb.</hi> 1647. An Ordinance
+giving power to the Committee of Indempnity, to put in Execution the Ordinances
+concerning Apprentices Freedomes.</head>
+            <p>BE it Ordered and Ordained by the Lords and Commons
+Aſſembled in Parliament, That power be given to the Committee for
+Indempnity, to put in execution the ſeverall Ordinances con<g ref="char:EOLhyphen"/>cerning
+Apprentices Freedomes that have ſerved the Parliament in this late Warre, and
+to receive all complaints made upon them, and to give Redreſſe to the party
+grieved, and to allow Coſts, Charges, and Damages, as they ſhall ſee
+cauſe, accord<g ref="char:EOLhyphen"/>ing to the power given them, in caſes of Indempnity.</p>
+            <closer>
+               <signed>
+                  <hi>Joh. Brown Cler.
+Parliamentorum.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:133144:6"/>
+            <!-- PDF PAGE 24 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
